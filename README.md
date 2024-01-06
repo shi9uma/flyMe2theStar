@@ -1,14 +1,10 @@
 # FlyMe2theStar
->   私 ずっとあなたを見てた，Oh、Fly me to the Star~~
+>   私ずっとあなたを見てた，Oh、Fly me to the Star~~
 
 ## Stage ichi
 
 1.   STL source learning，[TinySTL](https://github.com/shi9uma/TinySTL.git)
 2.   
-
-
-
-
 
 
 
