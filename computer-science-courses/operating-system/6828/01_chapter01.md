@@ -1,6 +1,6 @@
 # chapter01
 
-关联目录：`6.828\labs\lab1`，
+关联目录：`6828\labs\lab1`，
 
 ## lecture01-overview
 
