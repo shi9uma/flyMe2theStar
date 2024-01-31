@@ -4,6 +4,7 @@
     -   课程表（2018 fall），[schedule](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
     -   公开课视频，[mit 6.828 courses](https://ocw.mit.edu/search/?q=6.828)
     -   课程中自制的操作系统 jos 源码内容相关，[2018/jos.git](https://pdos.csail.mit.edu/6.828/2018/jos.git)
+    -   中文译文，[ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese.git)，[gitbook](https://th0ar.gitbooks.io/xv6-chinese/content/)
 -   其他参考资料
     -   nju NEMU
     -   [jyy 博客](http://jyywiki.cn/OS/2021/)
