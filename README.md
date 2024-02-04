@@ -1,35 +1,36 @@
 # flyMe2theStar
 >   私ずっとあなたを見てた，Oh、Fly me to the Star~~
 
-## Stage ichi
+## Stage One
 
-1.   STL source learning，[TinySTL](https://github.com/shi9uma/TinySTL.git)
-2.   ...
+1. STL source learning, [TinySTL](https://github.com/shi9uma/TinySTL.git)
+2. ...
 
-## options
+## Options
 
-1.   Unix 环境高级编程和网络编程，实现 webserver，熟悉 cpp 服务端开发
-2.   计算机网络，TCP 协议实现
-3.   Try to write idapython scripts to find iot bugs
+1. Advanced programming and network programming in Unix environment, implementation of a web server, familiarity with cpp server development.
+2. Computer networks, implementation of TCP protocol.
+3. Try to write idapython scripts to find IoT bugs.
+4. ...
 
-## ex
+## Examples
 
-[usamimeri](https://www.zhihu.com/question/633141089/answer/3351016479)：
+[usamimeri](https://www.zhihu.com/question/633141089/answer/3351016479):
 
-1.   自娱自乐：没有任何工程价值，绝大部分都是到处 copy 别人代码拼出来的，即使放 github 到倒闭也不会有人 star
-2.   老调重弹：花大量时间实现已经做过 n 次的代码片段，代码复用整理能力趋近 0
-3.   半途而废：理想功能实现造火箭，实际代码内核拧螺丝，整个项目只有 readme 写最多更新最勤快，上次 commit 是两年前
-4.   脸盆回收：用各种现代语言，例如 python 把别人写的其他语言代码换成自己的
-5.   玄学庇佑：天知道它为什么能跑，但重构后一定有问题
+1. Self-entertainment: No engineering value, the majority is stitched together by copying others' code everywhere. Even if it's on GitHub, it won't receive any stars and might close down.
+2. Repeating the same old tune: Spending a lot of time implementing code snippets that have been done countless times, with code reuse and organization skills approaching zero.
+3. Abandon halfway: Rocket science for ideal features, screw tightening for the actual code kernel. The entire project only has a README written and last update was two years ago.
+4. Basin recycling: Using various modern languages, such as Python, to replace code written in other languages with one's own.
+5. Occult blessing: God knows why it runs, but after refactoring, there will definitely be issues.
 
 ---
 
-[Neo](https://linux.do/t/topic/1051)：
+[Neo](https://linux.do/t/topic/1051):
 
-有群友说我应该适当收费来维护这个项目。
+Some members of the group suggest that I should charge a reasonable fee to maintain this project.
 
-是的，这个项目从开始到现在没有任何收费点，没有商业合作，也没有任何的广告。
+Yes, from the beginning until now, this project has had no charges, no commercial collaborations, and no advertisements.
 
-这并不是不能收费，不是没人找我商业合作，也不是没有广告可挂。
+It's not that it can't be charged, not that no one has approached me for commercial collaboration, and not that there are no ads to display.
 
-对于收费，我在群里说过广大网友被 GFW 和 OpenAI 夹在中间，成本本来就已高昂，我不希望趁机再割一刀；对于商业合作，我个人能力资源有限，服务商业之后我必然难以腾出精力服务网友；至于广告，我本人不喜欢。
+Regarding fees, I've mentioned in the group that the majority of netizens are caught between the GFW and OpenAI, and the cost is already high. I don't want to take advantage of the situation to cut deeper. As for commercial collaboration, my personal resources are limited, and after serving the business, I will inevitably struggle to allocate time to serve netizens. As for ads, I personally don't like them.
