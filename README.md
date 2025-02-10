@@ -13,7 +13,7 @@
 3. Try to write idapython scripts to find IoT bugs.
 4. ...
 
-## Examples
+## sth
 
 [usamimeri](https://www.zhihu.com/question/633141089/answer/3351016479):
 
@@ -34,3 +34,11 @@ Yes, from the beginning until now, this project has had no charges, no commercia
 It's not that it can't be charged, not that no one has approached me for commercial collaboration, and not that there are no ads to display.
 
 Regarding fees, I've mentioned in the group that the majority of netizens are caught between the GFW and OpenAI, and the cost is already high. I don't want to take advantage of the situation to cut deeper. As for commercial collaboration, my personal resources are limited, and after serving the business, I will inevitably struggle to allocate time to serve netizens. As for ads, I personally don't like them.
+
+---
+
+The Annotated STL Sources：
+
+The concept of open source originated from the American, Richard Stallman, who believed that hoarding source code is a morally reprehensible act. He argued that sharing source code with others allows them to learn and contribute back to the original creators. While locking down the source code may to some extent safeguard the "wealth that intelligence might generate", it hinders users from opportunities to learn and correct errors. Stallman left the Massachusetts Institute of Technology in 1984 and founded the Free Software Foundation (FSF). He penned the renowned GNU Manifesto, initiating the open reform project known as GNU.
+
+Pronounced as "guh-noo" in Chinese according to GNU, it can be translated as "liberate" in the sense of breaking free from the fate of being enslaved, carrying both phonetic and semantic significance.

@@ -1,0 +1,291 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://pdos.csail.mit.edu/6.828/2018/readings/i386/toc.htm
+Subject: 80386 Programmer's Reference Manual -- Table of Contents
+Date: Mon, 3 Jul 2023 10:17:34 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--nBnD6IbCMMe6Tki3iH1M4JXuyrazwiva0XnEiaD9Bm----"
+
+
+------MultipartBoundary--nBnD6IbCMMe6Tki3iH1M4JXuyrazwiva0XnEiaD9Bm----
+Content-Type: text/html
+Content-ID: <frame-7BF91C121B540200DEA7068F1CCE7622@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://pdos.csail.mit.edu/6.828/2018/readings/i386/toc.htm
+
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><meta http-eq=
+uiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1252">
+<title>80386 Programmer's Reference Manual -- Table of Contents</title>
+</head>
+<body>
+<h1>Intel 80386 Reference Programmer's Manual<br>
+Table of Contents</h1>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c01.htm"=
+>Chapter 1 -- Introduction to the 80386</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s01_01.=
+htm">1.1 Organization of This Manual</a>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+1_02.htm">1.2 Related Literature</a>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+1_03.htm">1.3  Notational Conventions</a>
+</li></ul>
+<h2><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/PI.htm">=
+Part I Applications Programming</a></h2>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c02.htm"=
+>Chapter 2 -- Basic Programming Model</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s02_01.=
+htm">2.1 Memory Organization and Segmentation</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+2_02.htm">2.2 Data Types</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+2_03.htm">2.3 Registers</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+2_04.htm">2.4 Instruction Format</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+2_05.htm">2.5 Operand Selection</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+2_06.htm">2.6  Interrupts and Exceptions</a>
+</li></ul>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c03.htm"=
+>Chapter 3 -- Applications Instruction Set</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s03_01.=
+htm">3.1 Data Movement Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_02.htm">3.2 Binary Arithmetic Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_03.htm">3.3 Decimal Arithmetic Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_04.htm">3.4 Logical Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_05.htm">3.5 Control Transfer Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_06.htm">3.6 String and Character Translation Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_07.htm">3.7 Instructions for Block-Structured Languages</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_08.htm">3.8 Flag Control Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_09.htm">3.9 Coprocessor Interface Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_10.htm">3.10 Segment Register Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+3_11.htm">3.11  Miscellaneous Instructions</a>
+</li></ul>
+<h2><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/PII.htm"=
+>Part II Systems Programming</a></h2>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c04.htm"=
+>Chapter 4 -- Systems Architecture</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s04_01.=
+htm">4.1 Systems Registers</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+4_02.htm">4.2  Systems Instructions</a>
+</li></ul>
+<h3> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c05.htm=
+">Chapter 5 -- Memory Management</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s05_01.=
+htm">5.1 Segment Translation</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+5_02.htm">5.2 Page Translation</a><br>
+</li><li><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s05=
+_03.htm">5.3  Combining Segment and Page Translation</a>
+</li></ul>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c06.htm"=
+>Chapter 6 -- Protection</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s06_01.=
+htm">6.1 Why Protection?</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+6_02.htm">6.2 Overview of 80386 Protection Mechanisms</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+6_03.htm">6.3 Segment-Level Protection</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+6_04.htm">6.4 Page-Level Protection</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+6_05.htm">6.5  Combining Page and Segment Protection</a>
+</li></ul>
+<h3> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c07.htm=
+">Chapter 7 -- Multitasking</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s07_01.=
+htm">7.1 Task State Segment</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+7_02.htm">7.2 TSS Descriptor</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+7_03.htm">7.3 Task Register</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+7_04.htm">7.4 Task Gate Descriptor</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+7_05.htm">7.5 Task Switching</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+7_06.htm">7.6 Task Linking</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+7_07.htm">7.7  Task Address Space</a>
+</li></ul>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c08.htm"=
+>Chapter 8 -- Input/Output</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s08_01.=
+htm">8.1 I/O Addressing</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+8_02.htm">8.2 I/O Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+8_03.htm">8.3  Protection and I/O</a>
+</li></ul>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c09.htm"=
+>Chapter 9 -- Exceptions and Interrupts</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s09_01.=
+htm">9.1 Identifying Interrupts</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+9_02.htm">9.2 Enabling and Disabling Interrupts</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+9_03.htm">9.3 Priority Among Simultaneous Interrupts and Exceptions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+9_04.htm">9.4 Interrupt Descriptor Table</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+9_05.htm">9.5 IDT Descriptors</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+9_06.htm">9.6 Interrupt Tasks and Interrupt Procedures</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+9_07.htm">9.7 Error Code</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+9_08.htm">9.8 Exception Conditions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+9_09.htm">9.9 Exception Summary</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s0=
+9_10.htm">9.10  Error Code Summary</a>
+</li></ul>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c10.htm"=
+>Chapter 10 -- Initialization</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s10_01.=
+htm">10.1 Processor State After Reset</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+0_02.htm">10.2 Software Initialization for Real-Address Mode</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+0_03.htm">10.3 Switching to Protected Mode</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+0_04.htm">10.4 Software Initialization for Protected Mode</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+0_05.htm">10.5 Initialization Example</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+0_06.htm">10.6  TLB Testing</a>
+</li></ul>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c11.htm"=
+>Chapter 11 -- Coprocessing and Multiprocessing</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s11_01.=
+htm">11.1 Coprocessing</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+1_02.htm">11.2  General Multiprocessing</a>
+</li></ul>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c12.htm"=
+>Chapter 12 -- Debugging</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s12_01.=
+htm">12.1 Debugging Features of the Architecture</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+2_02.htm">12.2 Debug Registers</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+2_03.htm">12.3  Debug Exceptions</a>
+</li></ul>
+<h2><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/PIII.htm=
+">Part III Compatibility</a></h2>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c13.htm"=
+>Chapter 13 -- Executing 80286 Protected-Mode Code</a></h3>
+<ul>=20
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s13_01.=
+htm">13.1 80286 Code Executes as a Subset of the 80386</a>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+3_02.htm">13.2 Two ways to Execute 80286 Tasks</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+3_03.htm">13.3  Differences From 80286</a>
+</li></ul>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c14.htm"=
+>Chapter 14 -- 80386 Real-Address Mode</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s14_01.=
+htm">14.1 Physical Address Formation</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+4_02.htm">14.2 Registers and Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+4_03.htm">14.3 Interrupt and Exception Handling</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+4_04.htm">14.4 Entering and Leaving Real-Address Mode</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+4_05.htm">14.5 Switching Back to Real-Address Mode</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+4_06.htm">14.6 Real-Address Mode Exceptions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+4_07.htm">14.7 Differences From 8086</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+4_08.htm">14.8  Differences From 80286 Real-Address Mode</a>
+</li></ul>=20
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c15.htm"=
+>Chapter 15 -- Virtual 8086 Mode</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s15_01.=
+htm">15.1 Executing 8086 Code</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+5_02.htm">15.2 Structure of a V86 Task</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+5_03.htm">15.3 Entering and Leaving V86 Mode</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+5_04.htm">15.4 Additional Sensitive Instructions</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+5_05.htm">15.5 Virtual I/O</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+5_06.htm">15.6 Differences From 8086</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+5_07.htm">15.7  Differences From 80286 Real-Address Mode</a>
+</li></ul>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c16.htm"=
+>Chapter 16 -- Mixing 16-Bit and 32 Bit Code</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s16_01.=
+htm">16.1 How the 80386 Implements 16-Bit and 32-Bit Features</a><br>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+6_02.htm">16.2 Mixing 32-Bit and 16-Bit Operations</a><br>
+</li><li>=20
+<a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s16_03.htm">=
+16.3  Sharing Data Segments Among Mixed Code Segments</a>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+6_04.htm">
+16.4  Transferring Control Among Mixed Code Segments&gt;</a>
+</li></ul>
+<h2><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/PIV.htm"=
+>Part IV Instructions Set</a></h2>
+<h3><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/c17.htm"=
+>Chapter 17 -- 80386 Instruction Set</a></h3>
+<ul>
+<li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s17_01.=
+htm">17.1  Operand-Size and Address-Size Attributes</a>
+</li><li> <a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/s1=
+7_02.htm">17.2 Instruction Format</a>
+</li></ul>
+<h2><a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/app.htm"=
+>Appendices</a></h2>
+<ul>
+<li>
+<a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/appa.htm">Ap=
+pendix A -- Opcode Map</a><br>
+</li><li>
+<a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/appb.htm">Ap=
+pendix B -- Complete Flag Cross-Reference</a><br>
+</li><li>
+<a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/appc.htm">Ap=
+pendix C -- Status Flag Summary</a><br>
+</li><li>
+<a href=3D"https://pdos.csail.mit.edu/6.828/2018/readings/i386/appd.htm">Ap=
+pendix D -- Condition Codes</a>
+</li></ul>
+
+
+</body></html>
+------MultipartBoundary--nBnD6IbCMMe6Tki3iH1M4JXuyrazwiva0XnEiaD9Bm------
